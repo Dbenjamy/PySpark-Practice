@@ -1,5 +1,5 @@
 # Path to csv(s)
-FILE_PATH = [
+FILE_PATHS = [
     'first/path.csv',
     'second/path.csv',
     'third/path.csv',
