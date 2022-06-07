@@ -3,7 +3,7 @@ FILE_PATHS = [
     'first/path.csv',
     'second/path.csv',
     'third/path.csv',
-    'fourth/path.csv'    
+    'fourth/path.csv'
 ]
 
 # Code mapping for states
