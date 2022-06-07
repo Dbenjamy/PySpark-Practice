@@ -14,9 +14,13 @@ I had a few questions I wanted to explore in this dataset. I believed there was 
 
 My findings did show that there is a significant difference in the average income between the two groups. Although this may be in part due to discrimination, this would need to proven with more analysis.
 I was also able to rank states in the US by the discrepency found in each one. Again, more analysis on this dataset will need to be done to confirm the results are not skewed.
+
 **Least discrepency**:
+
 ![](/Images/top_five.png)
+
 **Most discrepency**:
+
 ![](/Images/bottom_five.png)
 ## Development Environment
 For this project I used Python and the PySpark package. To use PySpark, you'll need to install Java and Scala. The code was written using VS Code.
